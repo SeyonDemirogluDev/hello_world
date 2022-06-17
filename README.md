@@ -1,4 +1,4 @@
-# Greetings, dear world!
+## Greetings, dear world!
 
     I must greet the divine world first,
     I shall be thy servant for eternity.
@@ -13,9 +13,9 @@
     I should call myself a professional,
     for what I have done.
     Indeed it is a good time to call it quits,
-    and have a sip of rum.
+    to go for a long run.
 
     I sense a joke in the previous one,
     therefore I will commit to the code.
-    But I must say that I can be silly,
-    for that I did not lay a node.
+    But I must say that I am truly great,
+    for that I am in a different mode.
