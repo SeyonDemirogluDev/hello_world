@@ -1,4 +1,4 @@
-## Greetings, dear world!
+# Greetings, dear world!
 
     I must greet the divine world first,
     I shall be thy servant for eternity.
