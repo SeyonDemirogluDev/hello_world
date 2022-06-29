@@ -1,21 +1,4 @@
-# Greetings, dear world!
+# Greetings, Solidity!
 
-    I must greet the divine world first,
-    I shall be thy servant for eternity.
-    I must bring thy water to quench thy thirst,
-    I shall secure thy legacy.
-
-    This poem was created out of the creator's head,
-    so give this repository a star.
-    I must say that if thy do such thing,
-    the creator will come far.
-
-    I should call myself a professional,
-    for what I have done.
-    Indeed it is a good time to call it quits,
-    to go for a long run.
-
-    I sense a joke in the previous one,
-    therefore I will commit to the code.
-    But I must say that I am truly great,
-    for that I am in a different mode.
+This is a basic contract with one simple function, which, when called, returns a string.
+What could the string be? :)
