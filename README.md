@@ -1,5 +1,5 @@
-# Greetings, Solidity!
+# What's up Solidity!
 
-**This is a basic contract with `greeting()` which returns a string.**  
+**This is a basic contract with `greeting()` returning a string.**  
 
 **What could the string be? 😁**
